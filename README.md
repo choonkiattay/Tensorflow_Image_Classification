@@ -22,3 +22,8 @@ layers of convolution layers and 3 layers of dense layers.
 | Optimizer          | ADADELTA       |
 | Loss Function      | Cross Entropy  |
 | Metric             | Accuracy       |
+
+## TODO
+- [ ] Load MNIST dataset from origin data. Refer Biofurmis test
+- [ ] Activation study
+- [x] Complete
